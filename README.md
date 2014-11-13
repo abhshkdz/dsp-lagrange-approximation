@@ -1,4 +1,6 @@
-# Function Approximation using Polynomials
+# Lagrange Approximation
+
+Work done as part of the Digital Signal Processing course project.
 
 - Lagrange Interpolation
 - Optimal Polynomial Approximation
